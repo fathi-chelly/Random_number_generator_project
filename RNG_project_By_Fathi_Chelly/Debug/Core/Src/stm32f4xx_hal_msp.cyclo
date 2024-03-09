@@ -1,0 +1,5 @@
+../Core/Src/stm32f4xx_hal_msp.c:64:6:HAL_MspInit	1
+../Core/Src/stm32f4xx_hal_msp.c:88:6:HAL_RNG_MspInit	2
+../Core/Src/stm32f4xx_hal_msp.c:113:6:HAL_RNG_MspDeInit	2
+../Core/Src/stm32f4xx_hal_msp.c:138:6:HAL_USART_MspInit	2
+../Core/Src/stm32f4xx_hal_msp.c:186:6:HAL_USART_MspDeInit	2
